@@ -1,0 +1,9 @@
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.vbproj.AssemblyReference.cache
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.Form1.resources
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.LoginForm.resources
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.PayRoll.resources
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.vbproj.GenerateResource.cache
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.GeneratedMSBuildEditorConfig.editorconfig
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.AssemblyInfoInputs.cache
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.AssemblyInfo.vb
+Y:\000_Active\Major_Project\PayRoll\obj\Debug\net6.0-windows\PayRoll.vbproj.CoreCompileInputs.cache
